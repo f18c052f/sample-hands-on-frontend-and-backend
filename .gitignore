@@ -42,3 +42,11 @@
 # typescript
 /dev/app/frontend/*.tsbuildinfo
 /dev/app/frontend/next-env.d.ts
+
+
+###############################
+# backend
+###############################
+
+# python
+__pycache__/
